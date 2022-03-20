@@ -1,0 +1,144 @@
+# dmidecode 3.3
+Getting SMBIOS data from sysfs.
+SMBIOS 3.3.0 present.
+
+Handle 0x0012, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x0011
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 16 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 0
+	Bank Locator: P0 CHANNEL A
+	Type: DDR4
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: 2133 MT/s
+	Manufacturer: Unknown
+	Serial Number: 00000000
+	Asset Tag: Not Specified
+	Part Number: F4-3600C16-16GVKC
+	Rank: 2
+	Configured Memory Speed: 2133 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Unknown
+	Module Manufacturer ID: Bank 5, Hex 0xCD
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0015, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x0014
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 1
+	Bank Locator: P0 CHANNEL A
+	Type: DDR4
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: 2133 MT/s
+	Manufacturer: Unknown
+	Serial Number: 00000000
+	Asset Tag: Not Specified
+	Part Number: F4-3600C18-32GVK
+	Rank: 2
+	Configured Memory Speed: 2133 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Unknown
+	Module Manufacturer ID: Bank 5, Hex 0xCD
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 32 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x0018, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x0017
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 16 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 0
+	Bank Locator: P0 CHANNEL B
+	Type: DDR4
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: 2133 MT/s
+	Manufacturer: Unknown
+	Serial Number: 00000000
+	Asset Tag: Not Specified
+	Part Number: F4-3600C16-16GVKC
+	Rank: 2
+	Configured Memory Speed: 2133 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Unknown
+	Module Manufacturer ID: Bank 5, Hex 0xCD
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 16 GB
+	Cache Size: None
+	Logical Size: None
+
+Handle 0x001B, DMI type 17, 92 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x001A
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 1
+	Bank Locator: P0 CHANNEL B
+	Type: DDR4
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: 2133 MT/s
+	Manufacturer: Unknown
+	Serial Number: 00000000
+	Asset Tag: Not Specified
+	Part Number: F4-3600C18-32GVK
+	Rank: 2
+	Configured Memory Speed: 2133 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+	Memory Technology: DRAM
+	Memory Operating Mode Capability: Volatile memory
+	Firmware Version: Unknown
+	Module Manufacturer ID: Bank 5, Hex 0xCD
+	Module Product ID: Unknown
+	Memory Subsystem Controller Manufacturer ID: Unknown
+	Memory Subsystem Controller Product ID: Unknown
+	Non-Volatile Size: None
+	Volatile Size: 32 GB
+	Cache Size: None
+	Logical Size: None
+
