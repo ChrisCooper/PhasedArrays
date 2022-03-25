@@ -34,14 +34,14 @@ def gen_chord(freqs, duration, sample_rate):
 
 def delay(samples, time, sample_rate):
     num_new_samples = int(time * sample_rate)
-    new_samples = np.zeros(num_new_samples)
+    new_samples = np.zeros(num_new_samples, dtype=samples[0].dtype)
     
     return np.concatenate([new_samples, samples])
 
 def pad_even(waves):
     target_length = max(len(w) for w in waves)
     
-    result = [np.zeros(target_length) for w in waves]
+    result = [np.zeros(target_length, dtype=w.dtype) for w in waves]
     
     # wish we could just np.sum(waves, axis=0)
     for i, w in enumerate(waves):
